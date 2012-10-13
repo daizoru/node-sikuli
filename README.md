@@ -3,10 +3,14 @@ node-sikuli
 
 Sikuli for Node.js
 
+## What?
+
+This magic is possible thanks to node-java
+
 ## Installation
 
-You need to install Sikuli first, and path to the JAR 
-and native libraries must be in Java classpath
+You need to install Sikuli first (and the JDK I think?).
+The sikuli-script.jar and native libraries must be in Java classpath.
 
 For Mac, it will work out of the box
 
